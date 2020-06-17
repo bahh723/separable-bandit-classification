@@ -1,7 +1,7 @@
 Separable Bandit Classification
 ===============================
 
-This repository contains source codes of the experiments conducted in the paper titled _Bandit Multiclass
+This repository contains source codes for the paper titled _Bandit Multiclass
 Linear Classification: Efficient Algorithms for the Separable Case_ authored by
 [Alina Beygelzimer](http://hunch.net/~beygel/),
 [Dávid Pál](http://david.palenica.com/),
